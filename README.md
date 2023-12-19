@@ -1,2 +1,2 @@
 # KocHoldingBootcamp
-Makine Öğrenmesi ve Yapay Zeka Bootcamp Notları
+Makine Öğrenmesi ve Derin Öğrenme Bootcamp Notları
